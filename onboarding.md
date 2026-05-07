@@ -11,7 +11,7 @@ Welcome to AAO Data Lab! Complete these steps to go from new member to active co
 
 ## Step 1 — Join the Community
 
-- [ ] [Join the AAO Slack workspace](https://join.slack.com/t/all-aboard-ohio/shared_invite/zt-3wgj180pu-eWAJoGn4_6~y9YHR9Lq3qA)
+- [ ] [Join the AAO Slack workspace](https://join.slack.com/t/lab-allaboardohio/shared_invite/zt-3x7cyvl53-0IQMjvljmA64iNCZvhaP1w)
 - [ ] Introduce yourself in `#welcome` — your name, background, and what you hope to contribute
 - [ ] Join `#dev-general`, `#dev-resources`, and `#announcements`
 - [ ] Star the [All Aboard Ohio GitHub organization](https://github.com/all-aboard-ohio)

@@ -31,7 +31,7 @@ We recommend [VS Code](https://code.visualstudio.com/) with these extensions:
 
 ## Step 1 — Join the Community
 
-1. [Join the AAO Slack workspace](https://join.slack.com/t/all-aboard-ohio/shared_invite/zt-3wgj180pu-eWAJoGn4_6~y9YHR9Lq3qA)
+1. [Join the AAO Slack workspace](https://join.slack.com/t/lab-allaboardohio/shared_invite/zt-3x7cyvl53-0IQMjvljmA64iNCZvhaP1w)
 2. Introduce yourself in `#welcome` — your background and what you want to build
 3. Join `#dev-general` and `#dev-resources`
 4. Request any API keys you need in `#dev-resources`

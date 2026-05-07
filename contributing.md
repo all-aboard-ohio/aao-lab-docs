@@ -62,7 +62,7 @@ Make sure you have:
 - [ ] A [GitHub account](https://github.com/join)
 - [ ] Git installed locally (`git --version`)
 - [ ] Node.js 18+ installed (`node --version`)
-- [ ] Joined the [AAO Slack](https://join.slack.com/t/all-aboard-ohio/shared_invite/zt-3wgj180pu-eWAJoGn4_6~y9YHR9Lq3qA) and introduced yourself in `#welcome`
+- [ ] Joined the [AAO Slack](https://join.slack.com/t/lab-allaboardohio/shared_invite/zt-3x7cyvl53-0IQMjvljmA64iNCZvhaP1w) and introduced yourself in `#welcome`
 - [ ] Read the [Code of Conduct](./code-of-conduct.md)
 
 ---

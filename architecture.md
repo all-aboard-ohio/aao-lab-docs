@@ -1,4 +1,4 @@
----
+﻿---
 title: Architecture & Design Patterns
 excerpt: Recommended architecture patterns, component design principles, state management approaches, and platform deployment guidelines.
 ---
@@ -137,7 +137,7 @@ ridership.lab.allaboardohio.org       ← example project subdomain
 **To request a subdomain:**
 
 1. Build and deploy your project (GitHub Pages or GCP).
-2. Post a request in the **#infrastructure** channel on the [AAO Slack](https://join.slack.com/t/all-aboard-ohio/shared_invite/zt-3wgj180pu-eWAJoGn4_6~y9YHR9Lq3qA) with:
+2. Post a request in the **#infrastructure** channel on the [AAO Slack](https://join.slack.com/t/lab-allaboardohio/shared_invite/zt-3x7cyvl53-0IQMjvljmA64iNCZvhaP1w) with:
    - Requested subdomain (e.g. `stations.lab.allaboardohio.org`)
    - Deployment URL the subdomain should point to
    - Project GitHub repo link

@@ -32,4 +32,4 @@ AAO Data Lab challenges are real-world problems with meaningful civic impact —
 
 ## For Professors
 
-We are happy to co-design a semester-long project rubric tailored to your course goals. Reach out via the [AAO Slack](https://join.slack.com/t/all-aboard-ohio/shared_invite/zt-3wgj180pu-eWAJoGn4_6~y9YHR9Lq3qA) in the `#education` channel.
+We are happy to co-design a semester-long project rubric tailored to your course goals. Reach out via the [AAO Slack](https://join.slack.com/t/lab-allaboardohio/shared_invite/zt-3x7cyvl53-0IQMjvljmA64iNCZvhaP1w) in the `#education` channel.
