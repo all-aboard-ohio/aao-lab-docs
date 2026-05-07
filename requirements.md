@@ -11,7 +11,7 @@ All AAO Data Lab projects must satisfy these requirements before being published
 
 ## 1. Shared Header and Notification System
 
-Every publicly facing AAO Data Lab project must include the shared site header and notification web component from the `aao-dev-components` library.
+Every publicly facing AAO Data Lab project must include the shared site header and notification web component from the `aao-lab-components` library.
 
 ### Loading the Library
 
@@ -20,7 +20,7 @@ Add this script tag to your HTML `<head>`, **before** any other scripts:
 ```html
 <script
   type="module"
-  src="https://all-aboard-ohio.github.io/aao-dev-components/aao-banner.js"
+  src="https://all-aboard-ohio.github.io/aao-lab-components/aao-banner.js"
 ></script>
 ```
 
@@ -35,7 +35,7 @@ Both of these elements must appear in your app root, **before** any page content
 ></aao-site-header>
 
 <aao-notification
-  config-url="https://raw.githubusercontent.com/all-aboard-ohio/aao-dev-components/main/banner.json"
+  config-url="https://raw.githubusercontent.com/all-aboard-ohio/aao-lab-components/main/banner.json"
 ></aao-notification>
 ```
 
@@ -165,7 +165,7 @@ black --check .
 Every project repository must include:
 
 - [ ] `README.md` with: project description, local setup instructions, and a link back to [lab.allaboardohio.org](https://lab.allaboardohio.org)
-- [ ] `CONTRIBUTING.md` linking to [aao-dev-docs contributing guidelines](https://github.com/all-aboard-ohio/aao-dev-docs/blob/main/contributing.md)
+- [ ] `CONTRIBUTING.md` linking to [aao-lab-docs contributing guidelines](https://github.com/all-aboard-ohio/aao-lab-docs/blob/main/contributing.md)
 - [ ] `.env.example` documenting all required environment variables
 - [ ] Inline comments for any non-obvious logic (the "why", not the "what")
 

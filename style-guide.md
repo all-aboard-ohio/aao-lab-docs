@@ -86,14 +86,14 @@ Every page must include the AAO shared header and notification system. See the [
 
 ```html
 <!-- In index.html — loads the shared component library from CDN -->
-<script type="module" src="https://all-aboard-ohio.github.io/aao-dev-components/aao-banner.js"></script>
+<script type="module" src="https://all-aboard-ohio.github.io/aao-lab-components/aao-banner.js"></script>
 ```
 
 ```jsx
 // In App.jsx or your root layout component
 <aao-site-header mode="compact" dev-url="https://lab.allaboardohio.org"></aao-site-header>
 <aao-notification
-  config-url="https://raw.githubusercontent.com/all-aboard-ohio/aao-dev-components/main/banner.json"
+  config-url="https://raw.githubusercontent.com/all-aboard-ohio/aao-lab-components/main/banner.json"
 ></aao-notification>
 ```
 
