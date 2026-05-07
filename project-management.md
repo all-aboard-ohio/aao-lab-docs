@@ -11,7 +11,7 @@ AAO Data Lab uses a two-tier issue structure, both tracked on one org-level GitH
 
 | Tier | Repository | What lives here |
 |---|---|---|
-| **Proposals** | ao-lab-planning | New tool and analysis ideas -- from concept through approval |
+| **Proposals** | aao-lab-planning | New tool and analysis ideas -- from concept through approval |
 | **Implementation tasks** | Individual project repos | Features, bug fixes, data work for active projects |
 
 ---
