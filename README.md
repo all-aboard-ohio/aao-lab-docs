@@ -7,26 +7,37 @@ excerpt: Documentation index for contributors to the All Aboard Ohio Data Lab.
 
 Documentation for contributors to the [All Aboard Ohio Data Lab](https://lab.allaboardohio.org).
 
-Each `.md` file in this repository is automatically surfaced in the Dev Docs section of the AAO Data Lab homepage. To add a new doc, create a `.md` file — frontmatter is optional but recommended.
+Each `.md` file in this repository is automatically surfaced in the Dev Docs section of the homepage. To add a new doc, create a `.md` file — frontmatter is optional but recommended.
 
-## Getting Started
+---
+
+## Start Here
 
 | Document | Description |
 |---|---|
-| [Onboarding Checklist](./onboarding.md) | Start here — step-by-step for new contributors |
-| [Getting Started](./getting-started.md) | Local dev environment setup |
-| [Contributing Guidelines](./contributing.md) | Full contribution workflow, PR process, and standards |
+| [Mission & Ethos](./mission-ethos.md) | What we believe and why we build |
+| [Onboarding Checklist](./onboarding.md) | Step-by-step for new contributors |
 | [Volunteer Roles](./roles.md) | Find where your skills fit |
 | [Code of Conduct](./code-of-conduct.md) | Community standards |
 
-## References
+## Contributing
 
 | Document | Description |
 |---|---|
-| [Tool Stack](./tool-stack.md) | Tech stack, data sources, and env variables |
-| [Style Guide](./style-guide.md) | Code and design conventions |
-| [Architecture](./architecture.md) | Repo structure and system design |
+| [Getting Started](./getting-started.md) | Local dev environment setup |
+| [Contributing Guidelines](./contributing.md) | Full workflow, PR process, and standards |
+| [Project Requirements Guide](./requirements.md) | Mandatory requirements for all projects |
 | [Academic & Capstone Guide](./academic-guide.md) | For professors and students |
+
+## Reference
+
+| Document | Description |
+|---|---|
+| [Style Guide](./style-guide.md) | Visual design, components, and code conventions |
+| [Architecture](./architecture.md) | Repo structure and system design patterns |
+| [Tool Stack](./tool-stack.md) | Tech stack, external APIs, and data sources |
+
+---
 
 ## Frontmatter Format
 
