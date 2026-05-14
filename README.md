@@ -36,6 +36,7 @@ Each `.md` file in this repository is automatically surfaced in the Dev Docs sec
 | [Style Guide](./style-guide.md) | Visual design, components, and code conventions |
 | [Architecture](./architecture.md) | Repo structure and system design patterns |
 | [Tool Stack](./tool-stack.md) | Tech stack, external APIs, and data sources |
+| [Datasets & Tools Reference](./datasets-and-tools.md) | Open datasets, Python GIS libraries, and additional sources for transit and rail analysis |
 
 ---
 
